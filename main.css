@@ -1,0 +1,14 @@
+* {
+    font-family:"Poppins", serif;
+    box-sizing: border-box;
+	outline: none;   
+    
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: "inter", serif;
+}
+
