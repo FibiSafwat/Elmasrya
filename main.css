@@ -12,3 +12,18 @@ h4 {
     font-family: "inter", serif;
 }
 
+
+CSS for smooth transitions
+.slider li {
+    transition: opacity 0.5s ease-in-out;
+}
+
+/* .hidden {
+    opacity: 0;
+    pointer-events: none; 
+} */
+
+:not(.hidden) {
+    opacity: 1;
+}
+
